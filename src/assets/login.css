@@ -1,0 +1,32 @@
+/* @import url("https://fonts.googleapis.com/css2?family=El+Messiri:wght@700&display=swap"); */
+
+
+.login-container {
+  max-width: 450px;
+  min-height: 400px;
+  box-shadow: 0 20px 50px rgb(0 0 0 / 20%);
+}
+
+.submit-button {
+  background: #111;
+  color: #fff;
+  transition: 1s;
+  letter-spacing: 0.5px;
+}
+
+.submit-button:hover {
+  background: linear-gradient(
+    115deg,
+    rgba(0, 0, 0, 0.1),
+    rgba(255, 255, 255, 0.25)
+  );
+  color: #111;
+  transition: 0.5s;
+}
+
+
+.link-text:hover {
+  color: red !important;
+}
+
+
